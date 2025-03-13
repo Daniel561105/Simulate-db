@@ -1,2 +1,5 @@
-# Simulate-Redis
-to create a system that is similar to redis
+# Simulate-DataBase
+Purpose
+---
+
+Trying to make a place which can store data 
